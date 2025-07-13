@@ -42,6 +42,43 @@ We provide tailored services in the following domains:
 
 ---
 
+### 🧰 Our Services
+
+<p align="center">
+
+🔬 <strong>Bioinformatics Analysis</strong><br>
+<sub>RNA-seq, single-cell, variant analysis, and biological data interpretation</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+🤖 <strong>AI & Data Science for Health</strong><br>
+<sub>Predictive modeling, diagnostics, machine learning for public health</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+🧬 <strong>Multi-omic Research Support</strong><br>
+<sub>Study design, data processing, clinical & academic insights</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+💊 <strong>Drug Design</strong><br>
+<sub>Molecular docking, screening, therapeutic discovery</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+🧪 <strong>Molecular Simulations</strong><br>
+<sub>Simulate biomolecules to predict structure, binding & behavior</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+🎓 <strong>Research Training & Workshops</strong><br>
+<sub>Capacity building in bioinformatics, AI, and data science</sub>
+
+</p>
+
+
+
+
 ## 🧰 Services
 
 | Service | Description |
