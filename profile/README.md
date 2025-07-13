@@ -79,9 +79,3 @@ Are you a researcher, institute, or healthcare innovator interested in:
 ## 📣 Stay Connected
 
 Follow our updates and join our mission to shape the future of **bioinformatics** and **AI for health** in the Global South.
-
----
-
-> “Creative mind, creative works — transforming data into solutions.”
-
----
