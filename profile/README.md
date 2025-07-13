@@ -3,7 +3,7 @@
 Hi there 👋
 **We Transform Life Science Data Into Impactful Solutions**
 
-[🌐 Website](https://deepbioltd.chiralbd.org) • [📧 Email](mailto:deepbiobd@gmail.com) • [📍 Dhaka, Bangladesh]
+[🌐 Website](https://deepbioltd.chiralbd.org) • [📧 Email](mailto:deepbiobd@gmail.com) •📍Dhaka, Bangladesh
 
 ---
 
